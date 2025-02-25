@@ -1,6 +1,8 @@
 ### **Project Summary: Hybrid Job Link Extractor and Filter**  
 
-This Python script automates the extraction and filtering of job listings from `.eml` email files, identifying **hybrid/remote** job opportunities.  
+This Python script automates the extraction and filtering of job listings from `.eml` email files, identifying **hybrid/remote** job opportunities. 
+
+**!UNDER CONSTRUCTION!**
 
 ---
 
